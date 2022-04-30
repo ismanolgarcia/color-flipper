@@ -3,7 +3,7 @@
 
 ## Video
 
-![](/media/desktop-version.webm)
+![](/media/desktop-version.gif)
 
 
 ## Desktop
